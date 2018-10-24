@@ -2,4 +2,4 @@
 
 bot version: https://twitter.com/aleatorymixtape
 
-cheapbotsdonequick.com/source/aleatorymixtape
+https://cheapbotsdonequick.com/source/aleatorymixtape
