@@ -1,4 +1,4 @@
-Algorithm as Ritual is a radio show on Wave Farm/WGXC 90.7-FM (2nd Tuesday of the month from 2 p.m. to 3 p.m.)
+Algorithm as Ritual is a radio show on Wave Farm/WGXC 90.7-FM (2nd Tuesday of the month from 2 p.m. to 3 p.m.).
 Produced by: Patrick Quinn
 https://wavefarm.org/wgxc/schedule/q3nz1m
 
