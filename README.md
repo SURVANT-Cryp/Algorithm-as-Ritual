@@ -2,13 +2,13 @@ Algorithm as Ritual is a radio show on Wave Farm/WGXC 90.7-FM (2nd Tuesday of th
 Show link: https://wavefarm.org/wgxc/schedule/q3nz1m<br>
 Produced by: Patrick Quinn<br>
 
-al·go·rithm
-<i>noun</i>
-a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+al·go·rithm<br>
+<i>noun</i><br>
+a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.<br>
 
-rit·u·al
-<i>noun</i>
-a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
+rit·u·al<br>
+<i>noun</i><br>
+a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.<br>
 
 “Get yourself out of whatever cage you find yourself in.”<br>
 ― John Cage
