@@ -24,5 +24,3 @@ The goal: the (re)discovery of interesting musical territories.<br>
 The means: algorithmic rituals/ritualistic algorithms.
 
 bot version that uses record catalog numbers: https://twitter.com/aleatorymixtape
-
-tracery source: https://cheapbotsdonequick.com/source/aleatorymixtape
