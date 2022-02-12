@@ -18,7 +18,7 @@ a religious or solemn ceremony consisting of a series of actions performed accor
 “In the wake of digital colonisation, increasingly intricate algorithms scout for patterns in the data we generate. The ever-expanding archive not only reflects our values and society—it shapes new cultures, behaviours, and beliefs. We posit that future rituals and algorithms can be rehearsed through performing arts, and propose an intervention that is part discussion, part social experiment, and strives to explore the combined functionalities.”<br>
 —Diana Alina Serbanescu and Régis Lemberthe<br>
 
-<i>Algorithm as Ritual</i> is a project exploring the ritualization of human-algorithm collaboration. The playlists for the show are created using a variety of chance methods; the primary method is a program (written in Python) that randomly selects and outputs links to music files/excerpts from an eclectic and continuously growing archive created and maintained by artist Patrick Quinn. Quinn searches far and wide for music, from dusty crates in record stores to the immense flea market that is the Internet.<br>
+<i>Algorithm as Ritual</i> is a project exploring the ritualization of human-algorithm collaboration. The playlists for the show are created using a variety of chance methods; the primary method is a computer program (written in Python) that randomly selects and outputs links to music files/excerpts from an eclectic and continuously growing archive created and maintained by artist Patrick Quinn. Quinn searches far and wide for music, from dusty crates in record stores to the immense flea market that is the Internet.<br>
 
 The goal: the (re)discovery of interesting musical territories.<br>
 The means: algorithmic rituals/ritualistic algorithms.
