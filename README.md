@@ -13,7 +13,7 @@ rit·u·al<br>
 a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.<br>
 
 “Get yourself out of whatever cage you find yourself in.”<br>
-―John Cage
+―John Cage<br>
 
 “In the wake of digital colonisation, increasingly intricate algorithms scout for patterns in the data we generate. The ever-expanding archive not only reflects our values and society—it shapes new cultures, behaviours, and beliefs. We posit that future rituals and algorithms can be rehearsed through performing arts, and propose an intervention that is part discussion, part social experiment, and strives to explore the combined functionalities.”<br>
 —Diana Alina Serbanescu and Régis Lemberthe<br>
